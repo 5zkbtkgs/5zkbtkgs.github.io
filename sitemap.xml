@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://5zkbtkgs.github.io/</loc>
-<lastmod>2015-12-23T16:36:59-00:00</lastmod>
+<lastmod>2015-12-23T17:15:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://5zkbtkgs.github.io/archives.html</loc>
-<lastmod>2015-12-23T16:36:59-00:00</lastmod>
+<lastmod>2015-12-23T17:15:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://5zkbtkgs.github.io/tags.html</loc>
-<lastmod>2015-12-23T16:36:59-00:00</lastmod>
+<lastmod>2015-12-23T17:15:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://5zkbtkgs.github.io/categories.html</loc>
-<lastmod>2015-12-23T16:36:59-00:00</lastmod>
+<lastmod>2015-12-23T17:15:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -35,20 +35,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <loc>http://5zkbtkgs.github.io/1512231/</loc>
 <lastmod>2015-12-23T00:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://5zkbtkgs.github.io/category/misc.html</loc>
-<lastmod>2015-12-23T00:00:00+09:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://5zkbtkgs.github.io/author/yue-kelai.html</loc>
-<lastmod>2015-12-23T00:00:00+09:00</lastmod>
-<changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
