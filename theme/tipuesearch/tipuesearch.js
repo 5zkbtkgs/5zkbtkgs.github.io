@@ -13,13 +13,13 @@ http://www.tipue.com/search
 
           var set = $.extend( {
           
-               'show'                   : 7,
+               'show'                   : 10,
                'newWindow'              : false,
                'showURL'                : true,
-               'minimumLength'          : 3,
+               'minimumLength'          : 1,
                'descriptiveWords'       : 25,
                'highlightTerms'         : true,
-               'highlightEveryTerm'     : false,
+               'highlightEveryTerm'     : true,
                'mode'                   : 'static',
                'liveDescription'        : '*',
                'liveContent'            : '*',
